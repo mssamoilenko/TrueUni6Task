@@ -1,7 +1,7 @@
 # import tkinter as tk
 # from ctypes import CDLL, c_void_p, c_int, c_char_p, c_bool
 #
-# # Завантаження бібліотеки (для Linux - `libtime.so`, для Windows - `time.dll`)
+# # Завантаження бібліотеки
 # lib = CDLL('./libtime.so')
 #
 # # Визначення функцій з C++
